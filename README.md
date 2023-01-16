@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m Mohammad Norouzi.
 I’m a junior Front-End Developer, I live in Tehran, Iran.
-I’m currently working in Mehrepars Inc.
+I’m currently working in Idekavan Inc.
 
 ### How to reach me: 
 ✉ Email: mnorouzidev@gmail.com
